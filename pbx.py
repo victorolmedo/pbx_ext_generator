@@ -17,7 +17,7 @@ string = """
         [9999]
         username=9999
         type=friend
-        secret=Qa$12Pl9&0
+        secret=*****
         qualify=no
         port=5060
         pickupgroup=
